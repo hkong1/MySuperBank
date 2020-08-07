@@ -1,0 +1,13 @@
+C:\Users\Dan Kong\DotNet\HelloWorld\MySuperBank\bin\Debug\netcoreapp3.1\MySuperBank.exe
+C:\Users\Dan Kong\DotNet\HelloWorld\MySuperBank\bin\Debug\netcoreapp3.1\MySuperBank.deps.json
+C:\Users\Dan Kong\DotNet\HelloWorld\MySuperBank\bin\Debug\netcoreapp3.1\MySuperBank.runtimeconfig.json
+C:\Users\Dan Kong\DotNet\HelloWorld\MySuperBank\bin\Debug\netcoreapp3.1\MySuperBank.runtimeconfig.dev.json
+C:\Users\Dan Kong\DotNet\HelloWorld\MySuperBank\bin\Debug\netcoreapp3.1\MySuperBank.dll
+C:\Users\Dan Kong\DotNet\HelloWorld\MySuperBank\bin\Debug\netcoreapp3.1\MySuperBank.pdb
+C:\Users\Dan Kong\DotNet\HelloWorld\MySuperBank\obj\Debug\netcoreapp3.1\MySuperBank.AssemblyInfoInputs.cache
+C:\Users\Dan Kong\DotNet\HelloWorld\MySuperBank\obj\Debug\netcoreapp3.1\MySuperBank.AssemblyInfo.cs
+C:\Users\Dan Kong\DotNet\HelloWorld\MySuperBank\obj\Debug\netcoreapp3.1\MySuperBank.csproj.CoreCompileInputs.cache
+C:\Users\Dan Kong\DotNet\HelloWorld\MySuperBank\obj\Debug\netcoreapp3.1\MySuperBank.dll
+C:\Users\Dan Kong\DotNet\HelloWorld\MySuperBank\obj\Debug\netcoreapp3.1\MySuperBank.pdb
+C:\Users\Dan Kong\DotNet\HelloWorld\MySuperBank\obj\Debug\netcoreapp3.1\MySuperBank.genruntimeconfig.cache
+C:\Users\Dan Kong\DotNet\HelloWorld\MySuperBank\obj\Debug\netcoreapp3.1\MySuperBank.csprojAssemblyReference.cache
